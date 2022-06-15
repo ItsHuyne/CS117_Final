@@ -23,7 +23,7 @@
 Bao gồm các file sau:
 * `Code_Final.ipynb` - chứa mã nguồn huấn luyện của bài toán
 * `FinalData.csv` - bộ dữ liệu mà nhóm sử dụng
-* `DemoCS117.ipynb` -notebook chứa demo ứng dụng
+* `Demo.ipynb` -notebook chứa demo ứng dụng
 * `modeldc.pkl` -file trọng số của model Decision Tree
 * `modelrdf.pkl` - file trọng số của model Random Forest
 * `modellr.pkl` - file trọng số của model Logistic Regression
