@@ -26,11 +26,12 @@ Bao gồm các file sau:
 * `DemoCS117.ipynb` -notebook chứa demo ứng dụng
 * `modeldc.pkl` -file trọng số của model Decision Tree
 * `modelrdf.pkl` - file trọng số của model Random Forest
-* `modelsvm.pkl` - file trọng số của model SVM
 * `modellr.pkl` - file trọng số của model Logistic Regression
 * `modelnb.pkl` - file trọng số của model Naive Bayes
 * `tf_idf.pkl` - file convert các text bình luận thành các feature TF-IDF
 * `vietnamese-stopwords-dash (1).txt` - File chứa các từ stopword vietnam
+### File trọng số của model Support Vector Machine
+https://drive.google.com/file/d/1oBiLeHgpw8Jmm9WnqJEYlRxxSjBZD_93/view?usp=sharing
 ### File pdf của báo cáo
 File `CS117.M21.KHCL.pdf` là báo cáo chi tiết cho đồ án
 ### File word của báo cáo
